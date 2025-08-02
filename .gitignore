@@ -1,0 +1,13 @@
+
+# Node
+node_modules
+.next
+out
+pnpm-lock.yaml
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
